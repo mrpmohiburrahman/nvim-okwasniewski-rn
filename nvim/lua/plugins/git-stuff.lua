@@ -1,3 +1,5 @@
+-- lua/plugins/git-stuff.lua
+
 -- NOTE: Git keymaps
 vim.keymap.set('n', '<leader>gg', function()
   vim.cmd.LazyGit()

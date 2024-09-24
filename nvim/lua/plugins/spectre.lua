@@ -1,3 +1,5 @@
+-- lua/plugins/spectre.lua
+
 return {
   'nvim-pack/nvim-spectre',
   config = function()

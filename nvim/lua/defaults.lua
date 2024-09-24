@@ -1,3 +1,4 @@
+-- lua/defaults.lua
 -- [[ Setting options ]]
 vim.g.mapleader = ' '
 vim.g.maplocalleader = ' '

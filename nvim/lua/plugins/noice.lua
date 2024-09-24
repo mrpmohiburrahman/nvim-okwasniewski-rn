@@ -1,3 +1,5 @@
+-- lua/plugins/noice.lua
+
 return {
   'folke/noice.nvim',
   dependencies = {

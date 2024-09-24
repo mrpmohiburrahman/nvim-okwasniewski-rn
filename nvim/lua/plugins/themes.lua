@@ -1,3 +1,5 @@
+-- lua/plugins/themes.lua
+
 return {
   -- {
   --   'folke/tokyonight.nvim',
